@@ -1,0 +1,2 @@
+webpackJsonp([5],{BdCf:function(e,t){},vjDi:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"clinic"},[t("keep-alive",[t("router-view")],1)],1)},staticRenderFns:[]};var r=n("VU/8")({name:"clinic",data:function(){return{}}},i,!1,function(e){n("BdCf")},"data-v-9e309b12",null);t.default=r.exports}});
+//# sourceMappingURL=5.1bf37fe3022e1cd9606f.js.map

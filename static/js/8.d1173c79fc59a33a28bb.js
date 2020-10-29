@@ -1,0 +1,2 @@
+webpackJsonp([8],{"4Niq":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"index"},[this._v("\n  index\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"index",data:function(){return{}}},i,!1,function(e){t("8wJv")},"data-v-1a7d2496",null);n.default=a.exports},"8wJv":function(e,n){}});
+//# sourceMappingURL=8.d1173c79fc59a33a28bb.js.map

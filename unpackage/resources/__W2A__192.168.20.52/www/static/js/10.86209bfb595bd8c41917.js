@@ -1,0 +1,2 @@
+webpackJsonp([10],{"/vYN":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"hospital"},[t("keep-alive",[t("router-view")],1)],1)},staticRenderFns:[]};var r=n("VU/8")({name:"hospital",data:function(){return{}}},a,!1,function(e){n("bYly")},"data-v-037b073c",null);t.default=r.exports},bYly:function(e,t){}});
+//# sourceMappingURL=10.86209bfb595bd8c41917.js.map

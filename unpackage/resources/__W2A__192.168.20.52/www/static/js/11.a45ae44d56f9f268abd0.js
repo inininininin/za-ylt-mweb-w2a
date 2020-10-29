@@ -1,0 +1,2 @@
+webpackJsonp([11],{"94Fv":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u={name:"tihuan",mounted:function(){var e={};this.$route.query.query&&(e=JSON.parse(this.$route.query.query)),console.log(this.$route.query.path),this.$router.replace({path:this.$route.query.path,query:e})},methods:{}},n={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]},s=r("VU/8")(u,n,!1,null,null,null);t.default=s.exports}});
+//# sourceMappingURL=11.a45ae44d56f9f268abd0.js.map
